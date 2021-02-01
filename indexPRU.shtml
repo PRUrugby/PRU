@@ -1,0 +1,246 @@
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>PopularFreedom Rugby Union</title>
+</head>
+
+<body background="rPRL-logo.png">
+
+    <p align="center">&nbsp;
+
+  <div align="center">
+    <center>
+    <table border="1" width="97%" bgcolor="#FFFFFF" height="1">
+      <tr>
+        <td width="100%" height="90" align="center"><font size="7"><b>PopularFreedom Rugby
+          Union (PRU)</b></font>
+          <table border="0" width="100%">
+            <tr>
+              <td width="129%" align="center" bgcolor="#000000"><font color="#00FF00"><script LANGUAGE="JavaScript">
+        //store the quotations in arrays
+        quotes = new Array(1);
+        quotes[0] = "Welcome to the 2045-2046 Preseason!";
+        //calculate a random index
+        index = Math.floor(Math.random() * quotes.length);
+        
+        //display the quotation
+        document.write("<DL>\n");
+        document.write("<DL>" + "\"" + quotes[index] + "\"\n");
+        document.write("<DD>" + "-- " + authors[index] + "\n");
+        document.write("</DL>\n");
+        
+        //done
+        </script>
+                </font></td>
+            </tr>
+          </table>
+        </td>
+      
+      </tr>
+    </center>
+      <tr>
+        <td width="100%" height="90" align="center">
+          <table border="1" width="100%" height="263">
+            <tr>
+              <td width="25%" rowspan="2" height="257">
+                <p align="center"><select onchange="window.location=value">
+            <option value="indexPRU.shtml">Info/Statistics
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <option value="rstats.shtml">Championship Stats
+            <option value="rcities.shtml">Cities of PopularFreedom 
+            <option value="rmvp.shtml">Divisional MVP       
+            <option value="rhistory.shtml">History      
+            <option value="rnet.shtml">Networth
+            <option value="rhis.html">Past Grand Championships
+            <option value="rrank.shtml">Rankings                     
+            <option value="rrules.shtml">Rules      
+              
+            <option value="rtrain.html">Training                    
+            </option>
+          </select>
+          
+        
+                </p>
+                <p align="center"><select onchange="window.location=value">
+            <option value="indexPRU.shtml">Previous Seasons
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <option value="indexPRU.shtml">Current Season
+            <option value="2045.shtml">2045  
+            <option value="2044.shtml">2044
+            <option value="2043.shtml">2043
+            <option value="2042.shtml">2042
+            <option value="2041.shtml">2041                       
+            <option value="2040.shtml">2040
+            <option value="2039.shtml">2039
+            <option value="2038.shtml">2038             
+            <option value="2037.shtml">2037
+            <option value="2036.shtml">2036
+            <option value="2035.shtml">2035
+            <option value="2034.shtml">2034                                    
+
+                                                             
+            </option>
+          </select>
+          
+        
+                </p>
+                <p align="center"><img border="0" src="Map.png" width="343" height="346">
+          
+        
+              </td>
+              <td width="75%" height="211" valign="top">
+                <p align="center"><b>TIER 1 PREMIER DIVISION</b>
+                <p align="center"><a href="rbay.shtml"><span style="background-color: #FF9900">Bay Grizzlies</span></a> 
+                - <span style="background-color: #00FF00">80.6</span><b><br>
+                </b><a href="rcamelot.shtml"><span style="background-color: #FF9900">Camelot
+                Wasps</span></a>  - 85.6<b><br>
+                </b><a href="rcliffstone.shtml">Cliffstone Eagles</a> - 74.6<b><br>
+                </b><a href="rlenita.shtml">
+          Lenita
+                Legions</a>  - <span style="background-color: #FF5555">79.8</span><b><br>
+                </b><a href="rlhn.shtml"><span style="background-color: #FF9900">Locke
+                Harbour North Dragons</span></a> 
+                - <span style="background-color: #00FF00">83.8</span><b><br>
+                </b><a href="rmagna.shtml">Magna Crusaders</a> - <span style="background-color: #00FF00">80.4</span><b><br>
+                </b><a href="rpeace.shtml">Peace Warriors</a> - <span style="background-color: #00FF00">77.5</span><b><br>
+                </b><a href="runion.shtml"> Union
+                Saracens</a> 
+ - <span style="background-color: #00FF00">85.3</span></td>
+            </tr>
+            <tr>
+              <td width="75%" height="40" valign="top">
+                <p align="center"><b>TIER 2 DIVISON</b>
+                </p>
+                <p align="center"><a href="rathens.shtml">
+          <span style="background-color: #FF9900">
+          Athens
+                Invaders</span></a>  - <span style="background-color: #00FF00">74.4</span><b><br>
+                </b><a href="resato.shtml">Esato Crocodiles</a> 
+                - 73.6<b><br>
+                </b><a href="rlhs.shtml">Locke
+                Harbour South Blues</a> - <span style="background-color: #00FF00">78.2</span><b><br>
+                </b><a href="rport.shtml">Port Sharks</a>
+                - <span style="background-color: #FF5555">75.0</span><b><br>
+                </b><a href="rroc.shtml"><span style="background-color: #FF9900">Rockyedge
+                Tigers</span></a> - <span style="background-color: #00FF00">82.8</span><b><br>
+                </b><a href="rsacred.shtml">
+          Sacredicity Saints</a>    
+                - <span style="background-color: #FF5555">82.6</span><b><br>
+                </b><a href="rstan.shtml">Stanislav
+                Lions</a>  - <span style="background-color: #00FF00">80.5</span><b><br>
+                </b><a href="rstornoway.shtml">Stornoway Rams</a> - 76.4
+                <p>&nbsp;</td>
+            </tr>
+          </table>
+          <p align="left"><b><font size="5"><span style="background-color: #3399FF">2045/46
+          - OFFSEASON/PRESEASON</span>:&nbsp; </font></b><font size="2"><b>(use CTRL + F to find information about your
+    team quickly)</b></font>
+          <p align="left"><b>PRESEASON WEEK 4</b>
+          <p align="left">Stornoway 29 - Camelot 28 - <a target="_blank" href="https://i.imgur.com/GgIZVgq.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/Nqcgb9w.png">Stats</a>
+          <p align="left">Sacredicity 29 - Stanislav 20 - <a target="_blank" href="https://i.imgur.com/6Ghjqp5.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/feqxw7f.png">Stats</a>
+          <p align="left">Port 24 - Athens 41 - <a target="_blank" href="https://i.imgur.com/6njl2L8.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/PRI6vvQ.png">Stats</a>
+          <p align="left">The <a href="rdow.shtml">Downtown
+                Jackals</a>  announce their intention to join the ERL for the
+          2047 season.
+          <p align="left">Athens acquires Nacolas, Vidal, Morida, and Halav from
+          Stanislav for Saynor, Bawindor, Nucifora, Mack, and €790K
+          <p align="left">LHN acquires Henry, Onersa, and Dathmer from Athens
+          for Morgan, and €650K
+          <p align="left">Athens acquires De Bruyn from Stornoway for €230K
+          <p align="left">Sacredicity acquires Fissov, and Balroc from Athens
+          for €1K
+          <p align="left">Sacredicity acquires Lendal from Bay for €200K
+          <p align="left">Peace acquires Buendia from Athens for Cane, Rivera,
+          and €100K
+          <p align="left">Magna acquires Prior, and Hanchard ffrom Athens for
+          €10K
+          <p align="left">Athens acquires Vernon, Dathmer, and Belleville from
+          Esato for Ervest, Herve, Collins, Deasy, Janssens, and €160K
+          <p align="left">LHS acquires Wincal from Esato for Peges and €20K
+          <p align="left">Esato acquires Bartan from Rockyedge for €1K
+          <p align="left">Cliffstone acquires DeVos, Romano from Athens for Ojo,
+          Furin, and €140K
+          <p align="left">Rockyedge 20 - Cliffstone 20 - <a target="_blank" href="https://i.imgur.com/bi5ifZ1.png">Score</a>
+          - <a target="_blank" href="https://www.youtube.com/watch?v=pZPbooS2eiE">Match
+          Video</a>
+          <p align="left">&nbsp;
+          <p align="left"><b>PRESEASON WEEK 3</b>
+          <p align="left">Union 49 - Bay 28 - <a target="_blank" href="https://i.imgur.com/WW5iHaA.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/h5B45m1.png">Stats</a>
+          <p align="left">Peace- 26 - Esato 5 - <a target="_blank" href="https://i.imgur.com/6LXSb7W.png">Score</a>
+          - <a target="_blank" href="https://www.youtube.com/watch?v=dDpBXBpD8QU&amp;t">Match
+          Video</a>
+          <p align="left">LHN 28 - Camelot 15 - <a target="_blank" href="https://i.imgur.com/UwPd3eR.png">Score</a>
+          - <a target="_blank" href="https://www.youtube.com/watch?v=5kh_BNInSxg&amp;t">Match
+          Video</a>
+          <p align="left">Athens 41 - Cliffstone 50 - <a target="_blank" href="https://i.imgur.com/Lc4EMz4.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/H5TfGVa.png">Stats</a>
+          <p align="left">Magna 34 - LHS 31 - <a target="_blank" href="https://i.imgur.com/2xo8G9E.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/lYVmoCI.png">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left"><b>PRESEASON WEEK 2</b>
+          <p align="left">LHS 14 - LHN 20 - <a target="_blank" href="https://i.imgur.com/OqFX4xn.png">Score</a>
+          <p align="left">Athens acquires
+                  Nucifora, and Prior from LHN for
+                  August, Yorkland, Jilson,
+                  Russo, and €300K
+          <p align="left">Athens acquires
+        Tenaillon, and
+                  Vander&nbsp;from Bay for €20K
+          <p align="left">Bay 48 - Cliffstone 21 - <a target="_blank" href="https://i.imgur.com/LgKvquL.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/QAVPOAS.png">Stats</a>
+          <p align="left">Camelot 45 - Lenita 23 - <a target="_blank" href="https://i.imgur.com/Fnhgvc2.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/Q35TNlU.png">Stats</a>
+          <p align="left">Esato 24 - Athens 10 - <a target="_blank" href="https://i.imgur.com/Mp04ehp.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/0DqKGby.png">Stats</a>
+          <p align="left">&nbsp;
+          <p align="left"><b>PRESEASON WEEK 1</b>
+          <p align="left">The <a href="race.shtml">Ace Goats</a>, <a href="rbat.shtml">Bathurst Cobras</a>,
+          <a href="rbea.shtml">Beach
+                Coyotes</a>, <a href="rbrunstone.shtml">Brunstone Avalanche</a>,
+          <a href="rcre.shtml">Cresthenge Elves</a>, <a href="rhill.shtml">Hill
+          Wolves</a>, <a href="rlaurier.shtml">Laurier Orcas</a>, <a href="rpoint.shtml">Point
+          Bobcats</a>, <a href="rrid.shtml">Ridgeway Griffins</a>, <a href="rsifton.shtml">Sifton Knights</a>,
+          and <a href="rteres.shtml">Teres Royals</a> announce their intention
+          to leave the PRU for the newly formed ERL (Eastern Rugby League)
+          <p align="left">Cliffstone 32 - Esato 5 - <a target="_blank" href="https://i.imgur.com/b6wh0im.png">Score</a>
+          <p align="left">Athens 24 - Camelot 39 - <a target="_blank" href="https://i.imgur.com/mgnyqb1.png">Score</a>
+          <p align="left">&nbsp;
+          <p align="left"><b>OFFSEASON</b>
+          <p align="left">Sacredicity acquires Stern, and Tanko from Union for
+          Smith, and €50K
+          <p align="left">Sacredicity acquires Koll from Lenita for Doumer, Yerso,
+          and €460K
+          <p align="left">Union acquires Grimstad from Brunstone for Jennings,
+          and €50K
+          <p align="left">Stanislav acquires Kitsil from Ace for €220K
+          <p align="left">Stanislav acquires Zarson from Stornoway for €120K
+          <p align="left">LHS acquires Williams from Port for Trey, and €140K
+          <p align="left">LHN 17 - LHS 10 (derby) - <a target="_blank" href="https://i.imgur.com/LZUQBXt.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/EgdQa99.png">Stats</a>
+          <p align="left">Union acquires Escalon from Bay for Bell, and €20K
+          <p align="left">Union acquires Forbes from Bay for Vander, and €100K
+          <p align="left">Cresthenge acquires Thorn from Sacredicity for €680K
+          <p align="left">Camelot 64 - Esato 24 (derby) - <a target="_blank" href="https://i.imgur.com/1TbgNsN.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/2O4z4ml.png">Stats</a>
+          <p align="left">Union 42 - Bathurst 8 (derby) - <a target="_blank" href="https://i.imgur.com/IV7uyVk.png">Score</a>
+          - <a target="_blank" href="https://i.imgur.com/2QQnFBZ.png">Stats</a>
+          <p align="left">Union acquires <a target="_blank" href="https://i.imgur.com/VuofuA5.png">Fielding</a>
+          from Athens for Fissov, Jilson,&nbsp;Yorkland, and €10K
+          <p align="left"> <a href="2045.shtml">2045 SEASON</a></td>
+      
+      </tr>
+    <center>
+    </table>
+    </center>
+  </div>
+
+</body>
+
+</html>
